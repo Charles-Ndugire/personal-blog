@@ -47,7 +47,7 @@ source virtualenv/bin/activate
 ## Known Bugs
 There are no known bug if any dont hesitate to contact me
 ## Technologies Used
-1. Python Version 3.6
+1. Python Version 3.9
 2. Flask Framework
 3. Html
 4. Bootstrap
