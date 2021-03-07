@@ -1,7 +1,7 @@
 # FlaskPersonalBlog
 ####  This is a web app that allows writers to write articles and delete articles and for readers to comment on the articles,
 #### By **Charles Ndugire**
-## Link to live site
+## Link to the live site
 You can view the site here ---> https://flask-blog254.herokuapp.com
 
 ## Description
