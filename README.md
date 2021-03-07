@@ -56,4 +56,4 @@ There are no known bug if any dont hesitate to contact me
 if you run into any issues please contact knyota66@gmail.com
 ### License
 *MIT*
-Copyright (c) 2019 **Kingecha Kevin Nyota**
+Copyright (c) 2021 **Charles Ndugire**
