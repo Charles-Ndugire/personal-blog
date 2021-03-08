@@ -30,7 +30,7 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 | Select Login | **Username** and **password** | Redirect to page with blogs that have been posted by writes and be able to subscribe to the blog|
 | Select comment button | **Comment** | Form that you input your comment|
 | Click on submit |  | Redirect to all comments tamplate with your comment and other comments|
-|Subscription | **Email Address**| Flash message "Succesfully subsbribed to D-Blog"|
+|Subscription | **Email Address**| Flash message "Succesfully subsbribed to personal blog"|
 
 
 
@@ -41,11 +41,11 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/D-Blog.git
+  https://github.com/Charles-Ndugire/personal-blog.git
   ```
 2. Move to the folder and install requirements
   ```bash
-  cd D-Blog
+  cd personal-blog
   pip install -r requirements.txt
   ```
 3. Exporting Configurations
@@ -65,7 +65,7 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Technology used
 
-* [Python3.6](https://www.python.org/)
+* [Python3.9](https://www.python.org/)
 * [Flask](http://flask.pocoo.org/)
 * [Heroku](https://heroku.com)
 
