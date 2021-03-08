@@ -10,11 +10,6 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 ## Live Link
 [View Site](https://mikeydblog.herokuapp.com)
 
-## Screenshots
-
-<img src="https://raw.githubusercontent.com/Owiti-Charles/D-Blog/master/app/static/photos/homepage.png" width="900px" height="440px">
-<img src="https://raw.githubusercontent.com/Owiti-Charles/D-Blog/master/app/static/photos/profile.png" width="900px" height="440px">
-<img src="https://raw.githubusercontent.com/Owiti-Charles/D-Blog/master/app/static/photos/comment.png" width="900px" height="440px">
 
 
 
@@ -76,12 +71,12 @@ Open the application on your browser `127.0.0.1:5000`.
 
 
 ## Known Bugs
-* There are no known bugs currently but pull requests are allowed incase you spot a bug
+* There are no known bugs currently but pull requests are encouraged incase you spot a bug
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [mikeych@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2019 **Charles Ndugire**
