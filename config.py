@@ -18,12 +18,12 @@ class DevConfig(Config):
     Development Configurations
     '''
     SECRET_KEY="testkeyindevconfig"
-    SQLALCHEMY_DATABASE_URI="postgresql+psycopg2://kevin:1234@localhost/flaskblog"
+    SQLALCHEMY_DATABASE_URI="postgresql+psycopg2://charles:1234@localhost/flaskblog"
     DEBUG = True
 
 class TestConfig(Config):
     SECRET_KEY="testkeyintestconfig"
-    SQLALCHEMY_DATABASE_URI="postgresql+psycopg2://kevin:1234@localhost/flaskblog_test"
+    SQLALCHEMY_DATABASE_URI="postgresql+psycopg2://charles:1234@localhost/flaskblog_test"
 
 configurations = {
     "production":ProdConfig,
