@@ -39,3 +39,4 @@ class BlogTest(unittest.TestCase):
         self.new_article.save_article()
         got_article = Article.query.get(1)
         self.assertTrue(len(got_article)==1)
+        
