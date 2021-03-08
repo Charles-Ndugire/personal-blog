@@ -36,7 +36,7 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 
 
 
-## Development Installation
+## Development and Installation
 To get the code..
 
 1. Cloning the repository:
@@ -75,8 +75,8 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeych@gmail.com]
+If you have any question or contributions, please email me at [ndugirecharles@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Charles Ndugire**
+* Copyright (c) 2021 **Charles Ndugire**
