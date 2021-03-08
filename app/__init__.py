@@ -34,3 +34,4 @@ def create_app(configname):
     configure_uploads(app,photos)
 
     return app
+
